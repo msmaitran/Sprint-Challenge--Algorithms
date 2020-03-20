@@ -2,8 +2,9 @@
 
 ## Exercise I
 
-a)
-
+a) **O(n)**
+The number of times the loop runs varies based on the value of *n*.
+As the size of the input increases, the runtime or space used will grow at the same rate.
 
 b)
 
@@ -11,5 +12,3 @@ b)
 c)
 
 ## Exercise II
-
-
