@@ -6,9 +6,9 @@ a) **O(n)**
 The number of times the loop runs varies based on the value of *n*.
 As the size of the input increases, the runtime or space used will grow at the same rate.
 
-b) **O(n^2)**
-Nesting two loops. Outer loop runs *n* times and innter loop runs *n* times for each iteration of the outer loop.
-As the size of the input increases, the runtime or space used will grow at a faster rate.
+b) **O(log n)**
+Outer loop runs *n* times, inner loop factor increases by 2.
+As the size of the input increases, the runtime or space used will grow at a slightly slower rate.
 
 c) **O(n)**
 Recursive function that calls itself. Runs through all the data once.
